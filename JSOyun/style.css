@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  background: #111;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  background: #000;
+}
+
+/* Başlangıç ekranı */
+#startScreen {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #111;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  z-index: 10;
+  padding: 20px;
+}
+
+.infoBox {
+  background: rgba(255,255,255,0.05);
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.infoBox ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.modeBtn {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #00aa77;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#hardcoreBtn {
+  background-color: #cc0033;
+}
+
+/* Oyun sonrası butonlar */
+#restartBtn, #homeBtn {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #00cc88;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  display: none;
+}
+
+#restartBtn {
+  top: 70%;
+}
+
+#homeBtn {
+  top: 80%;
+  background-color: #0066cc;
+}
+
+
+
+
+
+
+  

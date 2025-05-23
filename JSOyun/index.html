@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Zar Oyunu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- 🏠 Başlangıç (Ana Sayfa) -->
+  <div id="startScreen">
+    <h1>Zar Oyunu 🎲</h1>
+
+    <div class="infoBox">
+      <h3>🎯 Hedef</h3>
+      <p>Zar at, çıkan sayıya göre ilerle. Düşmanlardan kaç ve onları yok et. Ne kadar uzun süre hayatta kalırsan, o kadar yüksek skor alırsın!</p>
+    </div>
+
+    <div class="infoBox">
+      <h3>🎮 Kontroller</h3>
+      <ul>
+        <li>🖱️ Fareyle nişan al</li>
+        <li>🖱️ Tıklayarak zar at & mermi fırlat</li>
+      </ul>
+    </div>
+
+    <p><strong>Mod Seç:</strong></p>
+    <button class="modeBtn" id="normalBtn">🎮 Normal Mod</button>
+    <button class="modeBtn" id="hardcoreBtn">🔥 Hardcore Mod</button>
+  </div>
+
+  <!-- 🎮 Oyun Alanı -->
+  <canvas id="gameCanvas" width="800" height="600"></canvas>
+
+  <!-- 🔁 Oyun Butonları -->
+  <button id="restartBtn">Yeniden Başla</button>
+  <button id="homeBtn">🏠 Ana Sayfa</button>
+
+  <!-- 🔊 Sesler -->
+  <audio id="shootSound" src="mixkit-short-laser-gun-shot-1670.wav"></audio>
+  <audio id="explodeSound" src="mixkit-arcade-game-explosion-2759.wav"></audio>
+  <audio id="bgMusic" src="mixkit-downtown-rags-65.mp3" loop></audio>
+  
+  <script src="game.js"></script>
+</body>
+</html>
