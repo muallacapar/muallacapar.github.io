@@ -28,7 +28,7 @@ Patlama efekti             Boşluk (görsel amaçlı)
 
 ##  Kurulum (Yerel Geliştirme İçin)
 
-```bash
+
 git clone https://github.com/muallacapar/muallacapar.github.io.git
 cd muallacapar.github.io/JSOyun
 
