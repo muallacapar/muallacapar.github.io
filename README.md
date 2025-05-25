@@ -4,10 +4,8 @@ Bu proje, HTML5 canvas kullanarak yapılmış bir mini zar oyunudur.
 Fareyle nişan al, zar at, çıkan sayıya göre ilerle, düşmanları vur ve mümkün olduğunca uzun süre hayatta kal!
 
  Oyun bağlantısı: [https://muallacapar.github.io/JSOyun/](https://muallacapar.github.io/JSOyun/)
+![Ekran görüntüsü 2025-05-22 004533](https://github.com/user-attachments/assets/be2dd923-0d12-46c0-9c3a-5397e459799d)
 
-![Ekran görüntüsü 2025-05-22 004550](https://github.com/user-attachments/assets/b6234182-a044-4f46-91a7-72b5f89b0f21)
-![Ekran görüntüsü 2025-05-22 004514](https://github.com/user-attachments/assets/92067eb2-8ac5-4ed4-9963-f811203fda91)
-![Ekran görüntüsü 2025-05-22 004533](https://github.com/user-attachments/assets/be401b4c-96f5-46cd-acff-e4e02ec4fb15)
 
 
 ##  Oyun Hedefi
