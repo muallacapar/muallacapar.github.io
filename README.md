@@ -5,6 +5,8 @@ Fareyle nişan al, zar at, çıkan sayıya göre ilerle, düşmanları vur ve m�
 
  Oyun bağlantısı: [https://muallacapar.github.io/JSOyun/](https://muallacapar.github.io/JSOyun/)
 ![Ekran görüntüsü 2025-05-22 004533](https://github.com/user-attachments/assets/be2dd923-0d12-46c0-9c3a-5397e459799d)
+![Ekran görüntüsü 2025-05-22 004533](https://github.com/user-attachments/assets/0fb68ffa-3fb6-4696-8da6-fb681e3449cc)
+
 
 
 
