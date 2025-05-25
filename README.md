@@ -99,5 +99,5 @@ Bu proje bireysel olarak geliştirilmiştir. Ancak ilham, rehberlik ve bazı tek
 
 > Tüm açık kaynak topluluklarına ve geliştiricilere teşekkür ederim.
 
-
-
+## youtube videosu
+https://youtu.be/KZxg9UKKTyg
